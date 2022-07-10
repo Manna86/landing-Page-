@@ -1,0 +1,360 @@
+
+.pics1{ 
+    
+    position: relative;
+    top: 0px;
+}
+
+
+.second{
+position: absolute;
+top: 5em;
+left: 1.4cm;
+}
+
+
+.third{
+    position: absolute;
+    top: 10em;
+    width: 17cm;
+    height: 12cm;
+    left: 16cm;
+}
+
+
+.btn1{
+    position: absolute;
+    color: hsl(0, 21%, 6%);
+    padding:12px;
+    padding-right: 3.2cm;
+    padding-left: 3.2cm;
+    font-family: 'Poppins', sans-serif;
+    border: solid hsl(0, 0%, 95%); 
+    left: 25cm;
+    top: 2cm;
+    border-radius: 2cm;
+    
+}
+
+
+.btn2{
+    background-color: hsl(322, 100%, 66%);
+    position: absolute;
+    padding:12px;
+    padding-right: 1.5cm;
+    padding-left: 1.5cm;
+    font-family: 'Poppins', sans-serif;
+    border: solid hsl(322, 100%, 66%);
+    border-radius: 1cm;
+    margin-top: 5px;
+    color: hsl(0, 0%, 95%);
+    margin-bottom: 10px;
+    top: 13cm;
+    left: 1.5cm;
+    
+}
+
+.iro1{
+    position: absolute;
+    top: 6cm;
+    left: 1.5cm;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.iro2{
+    position: absolute;
+    top: 20em;
+    left:1.5cm;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: hsl(192, 100%, 9%);
+    color: hsl(208, 11%, 55%);
+   
+    
+}
+
+.low{
+    position: relative;
+    width:12cm;
+    height:8cm;
+    left: 18.5cm;
+    margin-top:2cm;
+}
+
+
+.low2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    position: absolute;
+    top: 25cm;
+    left: 5cm;
+}
+
+
+.low3{
+    position: absolute;
+    top: 27cm;
+    color: hsl(208, 11%, 55%);
+    
+    font-family: 'Open Sans', sans-serif;
+    left: 5cm;
+
+}
+
+.man{
+    border: solid rgb(237, 239, 243);
+    height:12cm;
+    width: 32cm;
+    margin-left: 1.5cm;
+    margin-top: 3.3cm;
+    
+    border-radius: 0.7cm;
+    
+}
+
+.yam{
+    position: absolute;
+    width:12cm;
+    height:8cm;
+    left: 5cm;
+    margin-top:2cm;
+}
+
+.manna{
+    
+    border: solid rgb(237, 239, 243);
+    height:12cm;
+    width: 32cm;
+    margin-left: 1.5cm;
+    margin-top: 0.7cm;
+    border-radius: 0.7cm;
+}
+
+.beans{
+    position: absolute;
+    left: 20.5cm;
+    bottom: -22cm;
+    
+}
+
+.air{
+    position: absolute;
+    color: hsl(208, 11%, 55%);
+    font-family: 'Poppins', sans-serif;
+    left: 20.5cm;
+    bottom: -25cm;
+
+}
+
+.light{
+    border: solid rgb(237, 239, 243);
+    height:12cm;
+    width: 32cm;
+    margin-left: 1.5cm;
+    margin-top: 0.7cm;
+    
+    border-radius: 0.7cm;
+    
+}
+
+.fill{
+    position: relative;
+    width:12cm;
+    height:8cm;
+    left: 18.5cm;
+    margin-top:2cm;
+}
+
+.fill2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    position: absolute;
+    top: 50cm;
+    left: 5cm;
+}
+
+.fill3{
+    position: absolute;
+    top: 52cm;
+    color: hsl(208, 11%, 55%);
+    
+    font-family: 'Open Sans', sans-serif;
+    left: 5cm;
+
+}
+
+
+.like{
+    border: solid hsl(0, 0%, 95%);
+    height: 5cm;
+    width: 20cm;
+    margin-left: 7cm;
+    margin-top: 3.3cm;
+    border-radius: 0.4cm;
+    position: absolute;
+    top: -6.8cm;
+    background-color: hsl(0, 0%, 95%);
+    
+    
+}
+
+.lik{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    position: absolute;
+    top: 0.7cm;
+    left: 3cm;
+}
+
+
+
+.btn3{
+    background-color: hsl(322, 100%, 66%);
+    position: absolute;
+    padding:12px;
+    padding-right: 3.2cm;
+    padding-left: 3.2cm;
+    font-family: 'Poppins', sans-serif;
+    border: solid hsl(322, 100%, 66%);
+    border-radius: 1cm;
+    margin-top: 6px;
+    color: hsl(0, 0%, 95%);
+    margin-bottom: 10px;
+    top: 3cm;
+    left:5cm;
+    
+}
+
+.finals{
+    background-color:hsl(192, 100%, 9%);
+    position: relative;
+    padding-top: 3cm;
+    padding-bottom: 5cm;
+    margin-top: 8cm;
+    
+}
+
+.hud{
+    position: absolute;
+    
+        top: 1.6cm;
+        left:2.0cm;
+       
+    }
+
+    socials{
+        color: rgb(58, 52, 52);
+       
+        border-radius: 2pt;
+        margin-right: 1cm;
+    }
+
+    .face{
+        color:  hsl(0, 0%, 95%);
+        position: absolute;
+        top: 3cm;
+        left:29cm;
+        height: 2cm;
+        width: 1cm;
+    }
+
+    .tweet{
+        color:  hsl(0, 0%, 95%);
+        position: absolute;
+        top: 3cm;
+        left:30.5cm;
+        height: 2cm;
+        width: 1cm;
+    }
+
+    .insta{
+        color:  hsl(0, 0%, 95%);
+        position: absolute;
+        top: 3cm;
+        left:32cm;
+        height: 2cm;
+        width: 1cm;
+    }
+
+    .call{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 5.7cm;
+        left:1.5cm;
+        height: 0.5cm;
+        width: 1cm;
+       
+    }
+    .call1{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 5.2cm;
+        left:3cm;
+        font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+
+    }
+
+    .mail{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 7cm;
+        left:1.5cm;
+        height: 0.5cm;
+        width: 1cm;
+    }
+
+    .mail1{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 6.5cm;
+        left:3cm;
+        font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+
+
+    }
+
+
+    .faq{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 3cm;
+        left:16cm;
+        font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+
+    }
+
+
+
+    .blog{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 3cm;
+        left:22cm;
+        font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    }
+
+    .add2{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 2.8cm;
+        left:3cm;
+        font-family: 'Open Sans', sans-serif;
+    
+
+    }
+
+    .add3{
+        color: hsl(0, 0%, 95%);
+        position: absolute;
+        top: 3.3cm;
+        left:1.5cm;
+        height: 0.5cm;
+        width: 1cm;
+        
+
+    }
